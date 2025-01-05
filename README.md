@@ -1,7 +1,7 @@
 # Examples for EVM tools
 
 - 🔜 Ape
-- 🔜 Brownie
+- ✅ Brownie
 - 🚫 DappTools
 - 🚫 Embark
 - ✅ Foundry
