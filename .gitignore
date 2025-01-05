@@ -1,0 +1,77 @@
+# Node.js
+**/node_modules/
+**/npm-debug.log
+**/yarn-error.log
+**/package-lock.json
+**/yarn.lock
+
+# Rust
+**/target/
+**/Cargo.lock
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/*.pyo
+**/*.pyd
+**/*.pdb
+**/*.egg-info/
+**/dist/
+
+# Java
+**/*.class
+**/*.jar
+**/*.war
+**/*.ear
+**/*.iml
+**/*.ipr
+**/*.iws
+**/*.project
+**/*.classpath
+**/target/
+**/bin/
+**/out/
+
+# General
+**/.DS_Store
+**/Thumbs.db
+**/*.log
+**/*.tmp
+**/*.swp
+**/*.swo
+**/*.bak
+**/*.orig
+**/*.rej
+**/*.sublime-project
+**/*.sublime-workspace
+**/.idea/
+**/.vscode/
+**/*.code-workspace
+**/*.env
+**/.env.*
+
+# Hardhat
+**/cache/
+**/.coverage/
+**/coverage/
+**/coverage.json
+**/typechain/
+**/typechain-types/
+**/.openzeppelin/
+
+# Hardhat local network
+**/deployments/localhost/
+**/.env.local
+
+# Foundry
+**/cache/
+**/out/
+**/.gas-snapshot
+**/.gas-report
+**/broadcast/
+**/lib/
+**/.env
+**/.env.*
+**/lcov.info
+
+# Brownie

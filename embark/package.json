@@ -1,0 +1,15 @@
+{
+  "name": "embark-token-example",
+  "version": "1.0.0",
+  "description": "Simple ERC20 token example using Embark",
+  "scripts": {
+    "test": "embark test",
+    "start": "embark run"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0"
+  },
+  "devDependencies": {
+    "embark": "^6.0.0"
+  }
+}

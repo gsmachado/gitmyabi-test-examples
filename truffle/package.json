@@ -1,0 +1,15 @@
+{
+  "name": "truffle-erc20-example",
+  "version": "1.0.0",
+  "description": "Simple ERC20 example using Truffle",
+  "scripts": {
+    "compile": "truffle compile",
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1"
+  },
+  "devDependencies": {
+    "truffle": "^5.11.5"
+  }
+}

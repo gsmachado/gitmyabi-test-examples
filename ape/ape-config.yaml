@@ -1,0 +1,9 @@
+name: ape-token-project
+plugins:
+  - name: solidity
+  - name: etherscan
+
+dependencies:
+  - name: OpenZeppelin
+    github: OpenZeppelin/openzeppelin-contracts
+    version: 4.9.0
