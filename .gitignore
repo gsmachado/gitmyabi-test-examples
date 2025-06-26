@@ -73,5 +73,6 @@
 **/.env
 **/.env.*
 **/lcov.info
+**/dependencies/
 
 # Brownie
