@@ -33,7 +33,7 @@ cd foundry-soldeer
 
 2. **Install dependencies using Soldeer:**
 ```bash
-soldeer install
+forge soldeer install
 ```
 
 This will download and install all dependencies specified in `soldeer.toml` into the `dependencies` folder.
@@ -54,19 +54,19 @@ forge test
 
 To add a new dependency, use:
 ```bash
-soldeer install <package-name> <version>
+forge soldeer install <package-name> <version>
 ```
 
 For example:
 ```bash
-soldeer install @openzeppelin-contracts 5.0.0
+forge soldeer install @openzeppelin-contracts 5.0.0
 ```
 
 ### Updating Dependencies
 
 To update dependencies:
 ```bash
-soldeer update
+forge soldeer update
 ```
 
 ### Configuration Files
